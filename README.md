@@ -16,7 +16,7 @@ Use this datasource if you want to use Cloudeye to query your [Cloud Service Res
 Installation cloudeye-grafana:
 Copy cloudeye-grafana to datasource folder of grafana to install this plugin.
 ```
-sudo git clone https://github.com/huaweicloud/cloudeye-grafana
+sudo git clone https://https://github.com/FlexibleEngineCloud/cloudeye-grafana
 sudo cp -r cloudeye-grafana  /var/lib/grafana/plugins/
 sudo service grafana-server restart
 ```
